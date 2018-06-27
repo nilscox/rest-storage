@@ -1,14 +1,14 @@
 {
-  "name": "storage",
+  "name": "rest-storage",
   "version": "1.0.0",
-  "description": "",
+  "description": "Access a web storage through REST endpoints",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["rest", "web", "storage"],
+  "author": "nilscox <nils@nils.cx>",
+  "license": "Beerware",
   "dependencies": {
     "express": "^4.16.3",
     "yargs": "^11.0.0"
