@@ -28,4 +28,4 @@ calls. When creating an item, only JSON payloads are handled for now.
 
 ## License
 
-[Beerware](./LICENSE.md)
+[Beerware](./LICENSE)
